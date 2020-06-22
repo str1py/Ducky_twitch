@@ -1,0 +1,44 @@
+C:\Users\cosha\source\repos\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.deps.json
+C:\Users\cosha\source\repos\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.runtimeconfig.json
+C:\Users\cosha\source\repos\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.runtimeconfig.dev.json
+C:\Users\cosha\source\repos\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.dll
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.csproj.CoreCompileInputs.cache
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorAssemblyInfo.cache
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorAssemblyInfo.cs
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.AssemblyInfoInputs.cache
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.AssemblyInfo.cs
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorTargetAssemblyInfo.cache
+C:\Users\cosha\source\repos\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.pdb
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.dll
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.pdb
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.csprojAssemblyReference.cache
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.TagHelpers.input.cache
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.TagHelpers.output.cache
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorCoreGenerate.cache
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Razor\Pages\App.g.cshtml.cs
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorTargetAssemblyInfo.cs
+C:\Users\cosha\source\repos\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.Views.dll
+C:\Users\cosha\source\repos\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.Views.pdb
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.Views.pdb
+C:\Users\cosha\source\repos\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.csproj.CopyComplete
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.deps.json
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.runtimeconfig.json
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.runtimeconfig.dev.json
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.dll
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.pdb
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.Views.dll
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\bin\Debug\netcoreapp2.2\Ducky.Views.pdb
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.csprojAssemblyReference.cache
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.AssemblyInfoInputs.cache
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.AssemblyInfo.cs
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.csproj.CoreCompileInputs.cache
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorAssemblyInfo.cache
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorAssemblyInfo.cs
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorTargetAssemblyInfo.cache
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.dll
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.pdb
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.genruntimeconfig.cache
+C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.csproj.CopyComplete
