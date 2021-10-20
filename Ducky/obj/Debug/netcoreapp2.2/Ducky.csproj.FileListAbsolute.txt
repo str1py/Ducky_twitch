@@ -42,3 +42,23 @@ C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Du
 C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.pdb
 C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.genruntimeconfig.cache
 C:\Users\paszaAlcohol\Desktop\VS projects\Ducky\Ducky\obj\Debug\netcoreapp2.2\Ducky.csproj.CopyComplete
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\appsettings.json
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\Ducky.deps.json
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\Ducky.runtimeconfig.json
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\Ducky.runtimeconfig.dev.json
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\Ducky.dll
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\Ducky.pdb
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\Ducky.Views.dll
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\bin\Debug\netcoreapp2.2\Ducky.Views.pdb
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.csprojAssemblyReference.cache
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.AssemblyInfoInputs.cache
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.AssemblyInfo.cs
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.csproj.CoreCompileInputs.cache
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorAssemblyInfo.cache
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorAssemblyInfo.cs
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.RazorTargetAssemblyInfo.cache
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.dll
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.pdb
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.genruntimeconfig.cache
+E:\CREATIVE\GitHub\Ducky_twitch\Ducky\obj\Debug\netcoreapp2.2\Ducky.csproj.CopyComplete

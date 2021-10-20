@@ -1,34 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paszaAlcohol\\Desktop\\VS projects\\Ducky\\Ducky\\Ducky.csproj": {}
+    "E:\\CREATIVE\\GitHub\\Ducky_twitch\\Ducky\\Ducky.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paszaAlcohol\\Desktop\\VS projects\\Ducky\\Ducky\\Ducky.csproj": {
+    "E:\\CREATIVE\\GitHub\\Ducky_twitch\\Ducky\\Ducky.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paszaAlcohol\\Desktop\\VS projects\\Ducky\\Ducky\\Ducky.csproj",
+        "projectUniqueName": "E:\\CREATIVE\\GitHub\\Ducky_twitch\\Ducky\\Ducky.csproj",
         "projectName": "Ducky",
-        "projectPath": "C:\\Users\\paszaAlcohol\\Desktop\\VS projects\\Ducky\\Ducky\\Ducky.csproj",
+        "projectPath": "E:\\CREATIVE\\GitHub\\Ducky_twitch\\Ducky\\Ducky.csproj",
         "packagesPath": "C:\\Users\\paszaAlcohol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paszaAlcohol\\Desktop\\VS projects\\Ducky\\Ducky\\obj\\",
+        "outputPath": "E:\\CREATIVE\\GitHub\\Ducky_twitch\\Ducky\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "E:\\PROGRAMMS\\Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\paszaAlcohol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -39,13 +41,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[3.1.19, )"
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
@@ -55,12 +56,6 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[2.2.6, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -85,7 +80,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.21077.7\\RuntimeIdentifierGraph.json"
         }
       }
     }

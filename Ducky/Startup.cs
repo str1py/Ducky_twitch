@@ -73,8 +73,8 @@ namespace Ducky
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.AddMvc().AddJsonOptions(options => { options.SerializerSettings.Formatting = Formatting.Indented; });
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+            services.AddControllers().AddNewtonsoftJson();
 
             services.AddMvc().AddRazorPagesOptions(options =>
             {
@@ -96,7 +96,7 @@ namespace Ducky
             }
 
             app.UseHttpsRedirection();
-            app.UseMvc();
+            //app.UseMvc();
             app.UseStaticFiles();
         }
 

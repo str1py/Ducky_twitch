@@ -19,7 +19,7 @@ namespace Ducky.Helpers
                 var res = await GetResponseAsync(webRequest);
                 return res;
             }
-            catch (Exception e)
+            catch 
             {
                 return null;
             }
@@ -44,7 +44,7 @@ namespace Ducky.Helpers
                     return await reader.ReadToEndAsync();
                 }
             }
-            catch (Exception e)
+            catch 
             {
                 return null;
             }
